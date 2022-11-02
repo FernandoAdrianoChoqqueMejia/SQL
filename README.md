@@ -1,18 +1,18 @@
-# **SQL (Base de Datos I)**
+# **SQL (DB I)**
 
-Resumen del capítulo 5 del libro ***Ramakrishnan - Database Management Systems 3rd Edition***
+Summary of chapter 5 of the book ***Ramakrishnan - Database Management Systems 3rd Edition***
 
-## **índice**
+## **Content**
 
-- [Creating and Modifying tables](https://github.com/FernandoAdrianoChoqqueMejia/SQLpostgresql/blob/main/source/Creating%20and%20Modifying%20tables.md)
+- [Creating and Modifying tables](https://github.com/n4ndp/SQLpostgresql/blob/main/source/Creating%20and%20Modifying%20tables.md)
 
-- [Integrity Constraints](https://github.com/FernandoAdrianoChoqqueMejia/SQLpostgresql/blob/main/source/Integrity%20Constraints.md)
+- [Integrity Constraints](https://github.com/n4ndp/SQLpostgresql/blob/main/source/Integrity%20Constraints.md)
 
-- [View and Materialized View](https://github.com/FernandoAdrianoChoqqueMejia/SQLpostgresql/blob/main/source/View%20and%20Materialized%20View.md)
+- [View and Materialized View](https://github.com/n4ndp/SQLpostgresql/blob/main/source/View%20and%20Materialized%20View.md)
 
-- [Triggers and Active DataBase](https://github.com/FernandoAdrianoChoqqueMejia/SQLpostgresql/blob/main/source/Triggers.md)
+- [Triggers and Active DataBase](https://github.com/n4ndp/SQLpostgresql/blob/main/source/Triggers.md)
 
-## **Más capítulos importantes del libro**
+## **Other chapters**
 
 - ER Diagrams (Chapter 2 | Ramakrishnan / Gehrke)
 - Relational Model (Chapter 3 | Ramakrishnan / Gehrke)
